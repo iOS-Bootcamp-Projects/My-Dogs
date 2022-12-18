@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "best-small-dog-breeds-chihuahua-1598967884.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "best-small-dog-breeds-chihuahua-1598967884 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "best-small-dog-breeds-chihuahua-1598967884 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
